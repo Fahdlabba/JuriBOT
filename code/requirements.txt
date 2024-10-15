@@ -1,8 +1,0 @@
-pip install cv2
-pip install matplotlib
-pip install langchain_google_genai
-pip install pillow
-pip install pytesseract
-pip install dotenv
-pip install streamlit
-pip install requests

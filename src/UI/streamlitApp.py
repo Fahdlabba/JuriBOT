@@ -1,10 +1,10 @@
 import numpy as np
 import cv2
 import streamlit as st  
-from models.gemini import getGeminiCompletion
-from preprocessing.image import preprocessImage
-from preprocessing.text import preprocessText
-from models.ocr import getTextFromImage
+from src.models.gemini import getGeminiCompletion
+from src.preprocessing.image import preprocessImage
+from src.preprocessing.text import preprocessText
+from src.models.ocr import getTextFromImage
 import requests
 
 def loadImageFromUrl(url):

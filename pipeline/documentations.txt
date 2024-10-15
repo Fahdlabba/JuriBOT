@@ -1,6 +1,0 @@
-i've develop this python script to design all the pipline diagram for me xD.
-all the pipline process in Pipeline.png image.
-if you want to run the script juste run this following command : 
-
-pip intsall -r requirements.txt
-python pipeline.py 

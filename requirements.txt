@@ -1,0 +1,9 @@
+cv2
+matplotlib
+langchain_google_genai
+pillow
+pytesseract
+dotenv
+streamlit
+pydotplus
+equests
